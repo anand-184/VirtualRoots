@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38813253783",
+    "project_id": "virtual-roots",
+    "storage_bucket": "virtual-roots.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38813253783:android:27b514d4924fc8c231a9d2",
+        "android_client_info": {
+          "package_name": "com.anand.virtualroots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ_frgoGTTyCDYzCNyngE01Dqk6GICXUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
